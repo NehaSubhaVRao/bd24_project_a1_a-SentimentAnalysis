@@ -1,0 +1,4 @@
+Deserializer/JSONValueDeserializationSchema.class
+flinkConnector/DataStreamJob.class
+Serializer/SentimentSerializationSchema.class
+Dto/Sentiment.class

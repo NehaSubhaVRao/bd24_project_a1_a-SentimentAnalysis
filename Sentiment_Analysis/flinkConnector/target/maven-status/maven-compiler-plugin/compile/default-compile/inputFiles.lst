@@ -1,0 +1,4 @@
+/Users/nehasuresh/Documents/Masters/Sem2/Big Data/flinkConnector/src/main/java/Dto/Sentiment.java
+/Users/nehasuresh/Documents/Masters/Sem2/Big Data/flinkConnector/src/main/java/Serializer/SentimentSerializationSchema.java
+/Users/nehasuresh/Documents/Masters/Sem2/Big Data/flinkConnector/src/main/java/Deserializer/JSONValueDeserializationSchema.java
+/Users/nehasuresh/Documents/Masters/Sem2/Big Data/flinkConnector/src/main/java/flinkConnector/DataStreamJob.java
